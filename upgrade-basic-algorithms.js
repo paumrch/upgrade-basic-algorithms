@@ -47,3 +47,11 @@ car2.finalPrice = globalBasePrice + car2.basePrice;
 
 console.log(car1.finalPrice)
 console.log(car2.finalPrice)
+
+// Iteration #3 — Operadores
+
+// 1.1 / Multiplica 10 por 5 y muestra el resultado mediante alert.
+
+let multiplicacion = 10 * 5;
+alert(multiplicacion);
+
